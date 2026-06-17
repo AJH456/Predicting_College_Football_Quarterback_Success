@@ -1,1 +1,1 @@
-# gAItor-Football
+# Predicting College Quarterback Recruit Success
